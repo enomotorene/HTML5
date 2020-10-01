@@ -143,7 +143,7 @@ radbrytningar
 </table>
 
 <p>img-taggen definerar en bild i en html sida. Den taggen kräver två attributer som är: src och allt</p>
-
+</title>
 Ett exempel av img-taggen är:
 <img src="pictures/pic.jpg" alt="Sea" height="100" width="100">
 
@@ -163,3 +163,4 @@ usemap="#seamap">
 
 </body>
 </html>
+#try using classses instead of formatting tags
